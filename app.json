@@ -8,9 +8,9 @@
         "telegram-bot",
         "ArunSince2005"
     ],
-    "repository": "https://github.com/Arun-TG/AutoDelete",
-    "website": "t.me/ArunSince2005",
-    "success_url": "https://t.me/Arun_TG",
+    "repository": "https://github.com/NiranjanVRam/AutoDelete",
+    "website": "t.me/fileshomeofficial",
+    "success_url": "https://t.me/fileshomeofficial",
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
