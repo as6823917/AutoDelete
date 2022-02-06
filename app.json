@@ -35,6 +35,9 @@
         "GROUPS": {
             "description": "ID of Groups where the userbot works",
             "value": ""
+        }, 
+        "BOT_TOKEN": {
+            "description": "Get it from @BotFather"
         }
     },
     "buildpacks": [
